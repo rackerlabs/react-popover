@@ -1,0 +1,27 @@
+{
+  "name": "react-popover",
+  "version": "0.0.0",
+  "license": "MIT",
+  "homepage": "https://github.com/rackerlabs/react-popover",
+  "description": "React Component for Canon popovers",
+  "authors": [
+    "Brad Gignac <bgignac@bradgignac.com>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rackerlabs/react-popover"
+  },
+  "bugs": {
+    "url": "https://github.com/rackerlabs/react-popover/issues"
+  },
+  "devDependencies": {
+    "glob": "^4.3.5",
+    "jsx-loader": "^0.12.2",
+    "webpack": "^1.5.3",
+    "webpack-dev-server": "^1.7.0"
+  },
+  "peerDependencies": {
+    "react": "^0.12.2"
+  },
+  "main": "src/index.js"
+}
